@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import AdminLoginForm from "@/components/AdminLoginForm";
 import Link from "next/link";
 import { getAdminSession } from "@/lib/auth";
